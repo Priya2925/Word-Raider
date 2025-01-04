@@ -1,0 +1,51 @@
+Word to guess: _____
+Guessed letters: 
+Attempts remaining: 6
+Guess a letter:  f
+Wrong guess!
+Word to guess: _____
+Guessed letters: f
+Attempts remaining: 5
+Guess a letter:  e
+Good guess!
+Word to guess: _e___
+Guessed letters: e, f
+Attempts remaining: 5
+Guess a letter:  w
+Wrong guess!
+Word to guess: _e___
+Guessed letters: e, w, f
+Attempts remaining: 4
+Guess a letter:  h
+Wrong guess!
+Word to guess: _e___
+Guessed letters: e, w, h, f
+Attempts remaining: 3
+Guess a letter:  a
+Good guess!
+Word to guess: _ea__
+Guessed letters: e, h, f, w, a
+Attempts remaining: 3
+Guess a letter:  n
+Wrong guess!
+Word to guess: _ea__
+Guessed letters: e, h, f, w, a, n
+Attempts remaining: 2
+Guess a letter:  i
+Wrong guess!
+Word to guess: _ea__
+Guessed letters: e, i, h, f, w, a, n
+Attempts remaining: 1
+Guess a letter:  p
+Good guess!
+Word to guess: pea__
+Guessed letters: e, i, p, h, f, w, a, n
+Attempts remaining: 1
+Guess a letter:  s
+Good guess!
+Word to guess: pea_s
+Guessed letters: e, i, s, p, h, f, w, a, n
+Attempts remaining: 1
+Guess a letter:  c
+Wrong guess!
+Game over! The word was: pears
